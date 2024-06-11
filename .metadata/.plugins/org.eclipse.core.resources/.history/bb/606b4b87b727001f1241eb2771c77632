@@ -1,0 +1,16 @@
+package RevisionCore;
+
+public class Casting {
+
+	public static void main(String[] args) {
+		
+		// Implicit casting
+		
+		float C;
+		C=34;
+		System.out.println(C);
+		
+
+	}
+
+}
