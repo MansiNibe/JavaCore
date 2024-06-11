@@ -1,0 +1,16 @@
+package demo;
+
+public class Array {
+
+	public static void main(String[] args) {
+
+		
+		int[] demo= {34,56,78,32,11,89};
+		
+		for(int j: demo)
+		{
+			System.out.println(j);
+		}
+	}
+
+}

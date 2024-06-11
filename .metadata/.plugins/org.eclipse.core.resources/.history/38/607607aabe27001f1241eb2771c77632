@@ -1,0 +1,11 @@
+package RevisionCore;
+
+public class Array {
+
+	public static void main(String[] args) {
+
+		
+		int demo[]= {3};
+	}
+
+}

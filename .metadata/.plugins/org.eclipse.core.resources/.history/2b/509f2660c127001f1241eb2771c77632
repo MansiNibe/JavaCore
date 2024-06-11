@@ -1,0 +1,29 @@
+package demo;
+
+import java.util.Scanner;
+
+public class Array {
+
+	public static void main(String[] args) {
+
+		
+//		int[] demo= {34,56,78,32,11,89};
+//		
+//		for(int j: demo)
+//		{
+//			System.out.println(j);
+//		}
+		
+		
+		
+		int [] demo2=new int[6];
+		
+		Scanner sc=new Scanner(System.in);
+		
+		for(int j=0;j<demo2.length;j++)
+		{
+			demo2[j]=sc.nextInt();
+		}
+	}
+
+}

@@ -1,0 +1,25 @@
+package demo;
+
+import java.util.Scanner;
+
+public class PrimeRange {
+
+	public static void main(String[] args) {
+
+		
+		Scanner sc=new Scanner(System.in);
+		int num1=sc.nextInt();
+		System.out.println("Enter the first number ");
+		int num2=sc.nextInt();
+		System.out.println("Enter the second number ");
+		
+		for(int i=50; i<=num1; i++)
+		{
+			for(int j=i;j<=num2; j++)
+			{
+				
+			}
+		}
+	}
+
+}
